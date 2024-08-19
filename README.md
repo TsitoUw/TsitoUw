@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there👋, I'm Tsito
 
+<p align="center">
+  <img src="https://i.ibb.co/0XSt7Dy/cover-github.jpg" width="100%" alt="accessibility text">
+</p>
 <!--
 **TsitoUw/TsitoUw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
